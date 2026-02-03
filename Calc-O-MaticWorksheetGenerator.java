@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.regex.*;
 
-public class mainmethod{
+public class CalcWorksheetGenerator{
     static int choice1;
     static int choice2;
     public static void main(String []args) throws IOException {
